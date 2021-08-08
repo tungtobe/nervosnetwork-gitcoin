@@ -58,3 +58,15 @@ The ABI for contract you made a call on (in text format).
         }
     ];
 ```
+
+
+## Gitcoin4
+
+A link to the Layer 1 address you funded on the Testnet Explorer.
+https://explorer.nervos.org/aggron/address/ckt1qyqvedmtjtm9utq09x5pmrxpss0c8dr7w89qgdckzt
+
+A link to the transaction ID created by sudt-cli on the Testnet Explorer.
+https://explorer.nervos.org/aggron/transaction/0xf6ab1262924169bdfffa3e2d036f20e8accd8b10981613a164c4530433d5854c
+
+The SUDT ID from the console output after executing the deposit script (in text format).
+Your sudt id: 452
