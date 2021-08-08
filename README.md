@@ -79,3 +79,17 @@ The address of the ERC20 Proxy Contract you deployed (in text format).
 
 The Ethereum address that was checked (in text format).
 0x90157b275a18394611B847E87531cfE3185ecd86
+
+## Gitcoin6
+
+Your Deposit Receiver Address (in text format).
+ckt1q3dz2p4mdrvp5ywu4kk5edl2uc4p03puvx07g7kgqdau3n3dmypkqnxzuefxyp9wdghglncj77k5wt6p59sx6kukyjlwh5s467qgp8m25yqqqqqsqqqqqvqqqqqfjqqqqpz4hth4v4fn87ll24ewe6m7wchthpclnxjmzsr5ex9r9a4d8x3ry6gqqqqpqqqqqqcqqqqqxyqqqqx7asf60w8pqpte2sfcfn90fdfzxue7ff2g8sawe9wacnqat6jmygqngqqqqpxv9ejjvgz2u63w3l839aadguh5rgtqd4devf97a0fpt4uqsz0k4yq40vn45xpegcgms3lgw5culccctmxcvq9rqgqqqqqqcqu4xw2j
+
+The Ethereum address used to generate the Deposit Receiver Address (in text format).
+0x90157b275a18394611B847E87531cfE3185ecd86
+
+A link to the Etherscan explorer for the successful Force Bridge transaction. This can be found on Force Bridge under History→Succeed.
+https://rinkeby.etherscan.io/tx/0xbcea57cf81e9d60d9df11c4d65e6e3a0cc90c2417dc978c7b0826f04502ca402
+
+A link to the Nervos explorer for the successful Force bridge transaction. This can be found on Force Bridge under History→Succeed.
+https://explorer.nervos.org/aggron/transaction/0x920f61013c7b333372d85d7447b351ff5fb190dcb07e546cb86907d5c995f7d8
