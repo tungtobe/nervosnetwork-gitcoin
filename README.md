@@ -93,3 +93,11 @@ https://rinkeby.etherscan.io/tx/0xbcea57cf81e9d60d9df11c4d65e6e3a0cc90c2417dc978
 
 A link to the Nervos explorer for the successful Force bridge transaction. This can be found on Force Bridge under History→Succeed.
 https://explorer.nervos.org/aggron/transaction/0x920f61013c7b333372d85d7447b351ff5fb190dcb07e546cb86907d5c995f7d8
+
+## Gitcoin9
+
+The Ethereum address that you've used for your Layer 2 account (in text format).
+0x90157b275a18394611B847E87531cfE3185ecd86
+
+The Nervos Layer 1 address that you passed to withdraw command (in text format).
+ckt1qyqvedmtjtm9utq09x5pmrxpss0c8dr7w89qgdckzt
