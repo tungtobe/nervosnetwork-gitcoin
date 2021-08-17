@@ -101,3 +101,11 @@ The Ethereum address that you've used for your Layer 2 account (in text format).
 
 The Nervos Layer 1 address that you passed to withdraw command (in text format).
 ckt1qyqvedmtjtm9utq09x5pmrxpss0c8dr7w89qgdckzt
+
+## Gitcoin10
+
+The Ethereum address that you've used for your Layer 2 account (in text format).
+0x90157b275a18394611B847E87531cfE3185ecd86
+
+The Nervos Layer 1 address associated with the private key passed to "unlock" command (in text format). This is "ckb address" in the console output.
+ckt1qyqvedmtjtm9utq09x5pmrxpss0c8dr7w89qgdckzt
